@@ -1,2 +1,2 @@
-Samuel-Frontend & Backend
+Samuel Roy Jojo-Frontend & Backend
 Jishan-Testing & Debugging
